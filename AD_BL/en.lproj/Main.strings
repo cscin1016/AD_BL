@@ -1,0 +1,51 @@
+
+/* Class = "IBUILabel"; text = "平均振幅"; ObjectID = "0B4-Vq-wSb"; */
+"0B4-Vq-wSb.text" = "average";
+
+/* Class = "IBUILabel"; text = "播放进度"; ObjectID = "22g-4W-z8w"; */
+"22g-4W-z8w.text" = "progress";
+
+/* Class = "IBUIButton"; normalTitle = "播放"; ObjectID = "LAT-zi-BPX"; */
+"LAT-zi-BPX.normalTitle" = "play";
+
+/* Class = "IBUILabel"; text = "音量大小"; ObjectID = "ORi-Zq-hD5"; */
+"ORi-Zq-hD5.text" = "volume";
+
+/* Class = "IBUIButton"; normalTitle = "暂停"; ObjectID = "RMT-wv-hPR"; */
+"RMT-wv-hPR.normalTitle" = "pause";
+
+/* Class = "IBUISegmentedControl"; ild-NS-p0X.segmentTitles[0] = "color"; ObjectID = "ild-NS-p0X"; */
+"ild-NS-p0X.segmentTitles[0]" = "color";
+
+/* Class = "IBUISegmentedControl"; ild-NS-p0X.segmentTitles[1] = "bright"; ObjectID = "ild-NS-p0X"; */
+"ild-NS-p0X.segmentTitles[1]" = "bright";
+
+/* Class = "IBUILabel"; text = "最大振幅"; ObjectID = "jrV-v9-VOK"; */
+"jrV-v9-VOK.text" = "max";
+
+/* Class = "IBUISegmentedControl"; r6c-7g-0hU.segmentTitles[0] = "0.15"; ObjectID = "r6c-7g-0hU"; */
+"r6c-7g-0hU.segmentTitles[0]" = "0.15";
+
+/* Class = "IBUISegmentedControl"; r6c-7g-0hU.segmentTitles[1] = "0.2"; ObjectID = "r6c-7g-0hU"; */
+"r6c-7g-0hU.segmentTitles[1]" = "0.2";
+
+/* Class = "IBUISegmentedControl"; r6c-7g-0hU.segmentTitles[2] = "0.25"; ObjectID = "r6c-7g-0hU"; */
+"r6c-7g-0hU.segmentTitles[2]" = "0.25";
+
+/* Class = "IBUISegmentedControl"; r6c-7g-0hU.segmentTitles[3] = "0.3"; ObjectID = "r6c-7g-0hU"; */
+"r6c-7g-0hU.segmentTitles[3]" = "0.3";
+
+/* Class = "IBUISegmentedControl"; wMV-Vk-deA.segmentTitles[0] = "缓慢"; ObjectID = "wMV-Vk-deA"; */
+"wMV-Vk-deA.segmentTitles[0]" = "slow";
+
+/* Class = "IBUISegmentedControl"; wMV-Vk-deA.segmentTitles[1] = "温和"; ObjectID = "wMV-Vk-deA"; */
+"wMV-Vk-deA.segmentTitles[1]" = "moderate";
+
+/* Class = "IBUISegmentedControl"; wMV-Vk-deA.segmentTitles[2] = "较快"; ObjectID = "wMV-Vk-deA"; */
+"wMV-Vk-deA.segmentTitles[2]" = "faster";
+
+/* Class = "IBUISegmentedControl"; wMV-Vk-deA.segmentTitles[3] = "急速"; ObjectID = "wMV-Vk-deA"; */
+"wMV-Vk-deA.segmentTitles[3]" = "fastest";
+
+/* Class = "IBUIButton"; normalTitle = "停止"; ObjectID = "wYE-GP-55T"; */
+"wYE-GP-55T.normalTitle" = "stop";

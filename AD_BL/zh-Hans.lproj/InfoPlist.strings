@@ -1,0 +1,61 @@
+/* Localized versions of Info.plist keys */
+
+
+//菜单项列表
+"LISTOBJ1"="主界面";
+"LISTOBJ2"="调光调色";
+"LISTOBJ3"="音乐模式";
+"LISTOBJ4"="场景颜色";
+"LISTOBJ5"="图片模式";
+"LISTOBJ6"="定时开关";
+"LISTOBJ7"="吸顶灯";
+"LISTOBJ8"="声音亮度";
+
+
+
+"MainView_TITLE"="主界面";
+"MainView_Untitled" = "没有灯";
+"MainView_VoiceControl" = "语音控制";
+"MainView_VoiceControlOver" = "完成说话";
+"MainView_VoiceCan"="识别取消";
+"MainView_VoiceNoResult"="无识别结果";
+"MainView_VoiceSpeaking"="正在录音";
+"MainView_VoiceStop"="停止录音";
+"MainView_Volume"="音量";
+"MainView_SupportALert"="您的设备可能不支持蓝牙4.0,可能无法使用本软件!设备必须为iPhone4S或更新设备！";
+"MainView_ChangeNameALertTitle"="请输入新名称!";
+"MainView_ChangeNameALertMessage"="仅支持英文与字母！";
+"MainView_NoSelectedLight"="选择要控制的灯!";
+
+"Enlish_BUTTON" ="英文";
+"Chinese_BUTTON" ="普通话";
+
+
+"LampsView_TITLE"="灯";
+"LampsView_ALlLight" ="所有灯";
+"LampsView_Group" ="分组";
+"LampsView_NOName" ="未命名";
+"LampsView_GroupOne" ="本组一共有";
+"LampsView_GroupTwo" ="个灯泡";
+"LampsView_GroupThree" ="可搜索数";
+"LampsView_GroupFour" ="已连接数";
+"LampsView_DeviceOntFound"="这个设备的信息已丢失，请重新扫描！";
+"LampsView_SetGroupName"="设置组名！";
+
+
+"SCENES_Button1"="敞亮";
+"SCENES_Button2"="阅读";
+"SCENES_Button3"="温暖";
+"SCENES_Button4"="春意";
+"SCENES_Button5"="清凉";
+"SCENES_Button6"="喜庆";
+"SCENES_Button7"="夜灯";
+"SCENES_Button8"="护肤";
+"SCENES_Button9"="自动切换";
+
+"TimerView_InvalidTime"="无效的时间";
+"TimerView_TimeON"="定时开";
+"TimerView_TimeOFF"="定时关";
+"TimerView_TimeCancel"="取消定时";
+"TimerView_Channel"="通道";
+

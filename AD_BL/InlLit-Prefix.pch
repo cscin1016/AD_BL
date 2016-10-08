@@ -1,0 +1,27 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import "CoreBluetooth/CoreBluetooth.h"
+
+    #define TRANSFER_SERVICE_UUID           @"FFF0"
+    #define TRANSFER_CHARACTERISTIC_UUID_1    @"FFF1"
+    #define TRANSFER_CHARACTERISTIC_UUID_4    @"FFF4"
+    #define TRANSFER_CHARACTERISTIC_UUID_6    @"FFF6"
+    #define TRANSFER_CHARACTERISTIC_UUID_8    @"FFF8"
+
+
+    #define IS_IOS_7 ([[[UIDevice currentDevice] systemVersion] doubleValue]>=7.0)?YES:NO
+    #define ADJUSTMENT IS_IOS_7?0:64
+#endif

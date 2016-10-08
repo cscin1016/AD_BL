@@ -1,0 +1,63 @@
+/* Localized versions of Info.plist keys */
+
+
+//菜单项列表
+"LISTOBJ1"="Home.";
+"LISTOBJ2"="Color&Brightness.";
+"LISTOBJ3"="Music Mode.";
+"LISTOBJ4"="Scenes Mode.";
+"LISTOBJ5"="ColorPhoto.";
+"LISTOBJ6"="Swither&Delay Timer.";
+"LISTOBJ7"="CeilingLight.";
+"LISTOBJ8"="Voice Mode.";
+
+
+
+"TITLE_Lamps"="Home Page";
+"MainView_Untitled" = "NO LIGHT";
+"MainView_VoiceControl" = "Voice Control";
+"MainView_VoiceControlOver" = "Speak Over";
+"MainView_VoiceCan"="Cancel";
+"MainView_VoiceNoResult"="No Result";
+"MainView_VoiceSpeaking"="Please Speaking";
+"MainView_VoiceStop"="Stop Speak";
+"MainView_Volume"="Volume";
+"MainView_SupportALert"="Your device not support this app!Must iphone4s or later!";
+"MainView_ChangeNameALertTitle"="Please input new name!";
+"MainView_ChangeNameALertMessage"="Only Letters and Numbers support!";
+"MainView_NoSelectedLight"="No light selected!";
+
+"Enlish_BUTTON" ="Enlish";
+"Chinese_BUTTON" ="Chinese";
+
+
+"LampsView_TITLE"="Lamps";
+"LampsView_ALlLight" ="All";
+"LampsView_Group" ="Group";
+"LampsView_NOName" ="No Name";
+"LampsView_GroupOne" ="This group contain";
+"LampsView_GroupTwo" ="bulbs";
+"LampsView_GroupThree" ="Be Searched Number ";
+"LampsView_GroupFour" ="Have Connected Number ";
+"LampsView_DeviceOntFound"="Device message dismiss！Please rescan";
+"LampsView_SetGroupName"="Set Group Name!";
+
+
+"SCENES_Button1"="Bright";
+"SCENES_Button2"="Reading";
+"SCENES_Button3"="Warm";
+"SCENES_Button4"="Spring";
+"SCENES_Button5"="Cool";
+"SCENES_Button6"="Festive";
+"SCENES_Button7"="Night";
+"SCENES_Button8"="Skin";
+"SCENES_Button9"="Repeat";
+
+"TimerView_InvalidTime"="Invalid Time";
+"TimerView_TimeON"="On";
+"TimerView_TimeOFF"="Off";
+"TimerView_TimeCancel"="Cancel";
+"TimerView_Channel"="Channel";
+
+
+
